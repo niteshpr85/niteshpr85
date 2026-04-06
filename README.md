@@ -19,8 +19,6 @@ Artificial Intelligence, Backend Development,Frontend Devlopment, Database Syste
 
 - 📫 How to reach me **niteshpr85@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/niteshpr85](https://www.linkedin.com/in/niteshpr85)
-
 - ⚡ Fun fact **I started my journey in Mechanical Engineering and transitioned into Computer Science to build intelligent systems 🚀**
 
 <h3 align="left">Connect with me:</h3>
