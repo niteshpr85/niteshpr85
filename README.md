@@ -1,7 +1,5 @@
 
-<h1 align="center" style="color: #ff4d4d; font-weight: bold;">
-  Hi 👋, I'm Nitesh Prajapati
-</h1>
+<h1 align="center" style="color: red;">Hi 👋, I'm Nitesh Prajapati</h1>
 <h3 align="center">A Computer Science undergraduate passionate about building real-world, scalable software solutions. I enjoy working on backend systems, AI-powered applications, and solving problems using clean and efficient code.</h3>
 
 - 🔭 I’m currently working on:
