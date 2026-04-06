@@ -1,5 +1,7 @@
 
-<h1 align="center" style="color: red;">Hi 👋, I'm Nitesh Prajapati</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Nitesh+Prajapati" />
+</h1>
 <h3 align="center">A Computer Science undergraduate passionate about building real-world, scalable software solutions. I enjoy working on backend systems, AI-powered applications, and solving problems using clean and efficient code.</h3>
 
 - 🔭 I’m currently working on:
