@@ -8,7 +8,6 @@
 - 🎓 Computer Science Undergraduate  
 - 💡 Passionate about **Backend Development & AI Systems**  
 - 🚀 Focused on building **real-world scalable applications**  
-- 🔄 Transitioned from Mechanical → Computer Science  
 
 ---
 
@@ -17,22 +16,19 @@
 - AI-based answer evaluation  
 - Dynamic question generation  
 - User performance analytics dashboard  
-
 ---
 
 ## 🌱 Currently Learning
-- Data Structures & Algorithms (Advanced)  
+- Data Structures & Algorithms (Advanced)              
 - System Design Fundamentals  
 - Scalable Backend Architecture  
 - AI Integration in Production  
-
 ---
 
 ## 💡 Areas of Interest
 Artificial Intelligence • Backend Development • Frontend Development • Databases • Automation Systems  
 
 ---
-
 ## 🤝 Looking to Collaborate
 Open-source projects in:
 - AI / ML  
@@ -43,7 +39,6 @@ Open-source projects in:
 
 ## 💬 Ask Me About
 **Java • Python • DBMS • Backend Development • AI Projects**
-
 ---
 
 ## 📫 Contact Me
@@ -74,7 +69,7 @@ Open-source projects in:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshpr85&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=niteshpr85&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -82,7 +77,7 @@ Open-source projects in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshpr85&layout=compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niteshpr85&layout=compact&theme=tokyonight" />
 </p>
 
 ---
