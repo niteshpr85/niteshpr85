@@ -1,15 +1,9 @@
 
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=140&section=header&text=Nitesh%20Prajapati&fontSize=38&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=24&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+Enthusiast;Building+Scalable+Systems;Problem+Solver" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=60&section=header&text=Hi%20👋,%20I'm%20Nitesh%20Prajapati&fontSize=30&fontColor=ff0000" />
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 - 🎓 Computer Science Undergraduate  
 - 💡 Passionate about **Backend Development & AI Systems**  
