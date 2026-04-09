@@ -41,11 +41,6 @@ Open-source projects in:
 **Java • Python • DBMS • Backend Development • AI Projects**
 ---
 
-## 📫 Contact Me
-- 📧 Email: niteshpr85@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/niteshpr85  
-- 💻 GitHub: https://github.com/niteshpr85  
-
 ---
 
 ## 🌐 Connect With Me
