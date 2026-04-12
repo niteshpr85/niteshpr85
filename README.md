@@ -37,12 +37,6 @@ Open-source projects in:
 
 ---
 
-## 💬 Ask Me About
-**Java • Python • DBMS • Backend Development • AI Projects**
----
-
----
-
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/niteshpr85" target="blank">
@@ -75,7 +69,4 @@ Open-source projects in:
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niteshpr85&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## ⚡ Fun Fact
-I started in **Mechanical Engineering** and transitioned into **Computer Science** to build intelligent systems 🚀
